@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Laws"
+  short_description: "Apply Laws of UX to design decisions"
+  default_prompt: "Apply the most relevant Laws of UX to this interface problem, explain the tradeoffs, and recommend concrete design changes."

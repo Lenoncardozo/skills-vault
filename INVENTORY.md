@@ -1,17 +1,20 @@
 # Inventory
 
-Snapshot gerado em `2026-03-12 12:10:46 -03`.
+Snapshot atualizado em `2026-03-25 10:35:07 -03`.
 
-Total de skills: `35`
+Total de skills: `38`
 
 ## Codex
 
+- `.system/openai-docs`
 - `.system/skill-creator`
 - `.system/skill-installer`
 - `browser-use`
 - `chatgpt-apps`
 - `composition-patterns`
 - `copywriting`
+- `design-laws`
+- `design-laws/design-laws`
 - `doc`
 - `file-organizer`
 - `frontend-design`
